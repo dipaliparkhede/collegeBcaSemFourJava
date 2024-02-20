@@ -10,7 +10,7 @@ public class AWTExample1 extends Frame {
    AWTExample1() {  
   
       // creating a button   
-      Button b = new Button("demo button ");  
+      Button b = new Button("Hello World! ");  
   
       // setting button position on screen  
       b.setBounds(30,100,80,30);  
